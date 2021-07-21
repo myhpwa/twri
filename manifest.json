@@ -1,0 +1,22 @@
+{
+  "short_name": "台灣水庫",
+  "name": "台灣水庫",
+  "icons": [
+    {
+      "src": "assets/icon/icon.png",
+      "type": "image/png",
+      "sizes": "1024x1024"
+    },
+    {
+      "src": "assets/icon/icon.png",
+      "type": "image/png",
+      "sizes": "1024x1024",
+      "purpose": "maskable"
+    }
+  ],
+  "scope": "/twri/",
+  "start_url": "/twri/",
+  "display": "standalone",
+  "theme_color": "black",
+  "background_color": "black"
+}
