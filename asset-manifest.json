@@ -2,9 +2,9 @@
   "files": {
     "static/js/0.703c0ccf.chunk.js": "/twri/static/js/0.703c0ccf.chunk.js",
     "static/js/0.703c0ccf.chunk.js.map": "/twri/static/js/0.703c0ccf.chunk.js.map",
-    "main.css": "/twri/static/css/main.2431e26e.chunk.css",
-    "main.js": "/twri/static/js/main.035510c1.chunk.js",
-    "main.js.map": "/twri/static/js/main.035510c1.chunk.js.map",
+    "main.css": "/twri/static/css/main.641b18d7.chunk.css",
+    "main.js": "/twri/static/js/main.5cf0ece5.chunk.js",
+    "main.js.map": "/twri/static/js/main.5cf0ece5.chunk.js.map",
     "polyfills-dom.js": "/twri/static/js/polyfills-dom.2a87287f.chunk.js",
     "polyfills-dom.js.map": "/twri/static/js/polyfills-dom.2a87287f.chunk.js.map",
     "runtime-main.js": "/twri/static/js/runtime-main.25651fcc.js",
@@ -122,7 +122,7 @@
     "service-worker.js": "/twri/service-worker.js",
     "service-worker.js.map": "/twri/service-worker.js.map",
     "static/css/4.532f36fa.chunk.css.map": "/twri/static/css/4.532f36fa.chunk.css.map",
-    "static/css/main.2431e26e.chunk.css.map": "/twri/static/css/main.2431e26e.chunk.css.map",
+    "static/css/main.641b18d7.chunk.css.map": "/twri/static/css/main.641b18d7.chunk.css.map",
     "static/js/4.4682b34b.chunk.js.LICENSE.txt": "/twri/static/js/4.4682b34b.chunk.js.LICENSE.txt",
     "static/js/52.0e79bbd0.chunk.js.LICENSE.txt": "/twri/static/js/52.0e79bbd0.chunk.js.LICENSE.txt",
     "static/js/polyfills-dom.2a87287f.chunk.js.LICENSE.txt": "/twri/static/js/polyfills-dom.2a87287f.chunk.js.LICENSE.txt"
@@ -131,7 +131,7 @@
     "static/js/runtime-main.25651fcc.js",
     "static/css/4.532f36fa.chunk.css",
     "static/js/4.4682b34b.chunk.js",
-    "static/css/main.2431e26e.chunk.css",
-    "static/js/main.035510c1.chunk.js"
+    "static/css/main.641b18d7.chunk.css",
+    "static/js/main.5cf0ece5.chunk.js"
   ]
 }
