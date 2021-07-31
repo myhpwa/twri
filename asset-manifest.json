@@ -3,15 +3,15 @@
     "static/js/0.703c0ccf.chunk.js": "/twri/static/js/0.703c0ccf.chunk.js",
     "static/js/0.703c0ccf.chunk.js.map": "/twri/static/js/0.703c0ccf.chunk.js.map",
     "main.css": "/twri/static/css/main.8d9daf15.chunk.css",
-    "main.js": "/twri/static/js/main.32adb43d.chunk.js",
-    "main.js.map": "/twri/static/js/main.32adb43d.chunk.js.map",
+    "main.js": "/twri/static/js/main.36a8cfc1.chunk.js",
+    "main.js.map": "/twri/static/js/main.36a8cfc1.chunk.js.map",
     "polyfills-dom.js": "/twri/static/js/polyfills-dom.2a87287f.chunk.js",
     "polyfills-dom.js.map": "/twri/static/js/polyfills-dom.2a87287f.chunk.js.map",
     "runtime-main.js": "/twri/static/js/runtime-main.25651fcc.js",
     "runtime-main.js.map": "/twri/static/js/runtime-main.25651fcc.js.map",
     "static/css/4.532f36fa.chunk.css": "/twri/static/css/4.532f36fa.chunk.css",
-    "static/js/4.4682b34b.chunk.js": "/twri/static/js/4.4682b34b.chunk.js",
-    "static/js/4.4682b34b.chunk.js.map": "/twri/static/js/4.4682b34b.chunk.js.map",
+    "static/js/4.8036d227.chunk.js": "/twri/static/js/4.8036d227.chunk.js",
+    "static/js/4.8036d227.chunk.js.map": "/twri/static/js/4.8036d227.chunk.js.map",
     "static/js/5.9840d2c5.chunk.js": "/twri/static/js/5.9840d2c5.chunk.js",
     "static/js/5.9840d2c5.chunk.js.map": "/twri/static/js/5.9840d2c5.chunk.js.map",
     "static/js/6.9c62fdbe.chunk.js": "/twri/static/js/6.9c62fdbe.chunk.js",
@@ -123,15 +123,15 @@
     "service-worker.js.map": "/twri/service-worker.js.map",
     "static/css/4.532f36fa.chunk.css.map": "/twri/static/css/4.532f36fa.chunk.css.map",
     "static/css/main.8d9daf15.chunk.css.map": "/twri/static/css/main.8d9daf15.chunk.css.map",
-    "static/js/4.4682b34b.chunk.js.LICENSE.txt": "/twri/static/js/4.4682b34b.chunk.js.LICENSE.txt",
+    "static/js/4.8036d227.chunk.js.LICENSE.txt": "/twri/static/js/4.8036d227.chunk.js.LICENSE.txt",
     "static/js/52.0e79bbd0.chunk.js.LICENSE.txt": "/twri/static/js/52.0e79bbd0.chunk.js.LICENSE.txt",
     "static/js/polyfills-dom.2a87287f.chunk.js.LICENSE.txt": "/twri/static/js/polyfills-dom.2a87287f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.25651fcc.js",
     "static/css/4.532f36fa.chunk.css",
-    "static/js/4.4682b34b.chunk.js",
+    "static/js/4.8036d227.chunk.js",
     "static/css/main.8d9daf15.chunk.css",
-    "static/js/main.32adb43d.chunk.js"
+    "static/js/main.36a8cfc1.chunk.js"
   ]
 }
